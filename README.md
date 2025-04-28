@@ -4,7 +4,8 @@
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Estudiante+de+Ingenier%C3%ADa;Desarrollador+Frontend;Programador+competitivo;Entusiasta+de+la+Inteligencia+Artificial;Diseñador+Web;Desarrollador+Web;Hacker+%C3%89tico)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Estudiante+de+Ingenier%C3%ADa;Desarrollador+Frontend;Programador+competitivo;Entusiasta+de+la+Inteligencia+Artificial;Diseñador+Web;Desarrollador+Web;Full+Stack)](https://git.io/typing-svg)
+
 </div>
 <p align="center">
  <img height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
@@ -191,7 +192,7 @@ Soy Gabriel, un estudiante y entusiasta de la tecnología con pasión por el des
 ## 📚 <b>Mis proyectos</b>
 
   <ul>
-    <li> <a href="https://www.github.com/gabriel">Mi GitHub</a></li>
+    <li> <a href="[https://www.github.com/gabriel](https://github.com/GabrielIturreCs/GabrieliturreCs)">Mi GitHub</a></li>
   </ul>
 
 ---
