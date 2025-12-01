@@ -1,58 +1,82 @@
-<h1 align="center">Gabriel | Full Stack Developer</h1>
+<h1 align="center">Hola, soy Gabriel Iturre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"></h1>
+<h3 align="center">Ingeniero de Software Full Stack | Arquitecturas Híbridas & Alta Disponibilidad</h3>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=336699&center=true&vCenter=true&width=600&height=50&lines=Construyendo+soluciones+web+escalables.;Especializado+en+Frontend+y+Algoritmos.;Integrando+IA+en+el+desarrollo+moderno." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0284c7&center=true&vCenter=true&width=800&height=60&lines=Especialista+en+Angular+18%2B,+Node.js+y+Electron.;Diseñando+sistemas+Offline-First+de+misión+crítica.;Creador+de+SUDO+ERP.;Enfoque+en+Clean+Architecture+y+Performance." alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-### 👨‍💻 Sobre mí
+---
 
-Soy un **Desarrollador Full Stack** (Analista Programador) con un fuerte enfoque en crear experiencias web robustas y eficientes. Mi background en **programación competitiva** me ha dado una base sólida en algoritmos y resolución de problemas complejos, lo que aplico al desarrollo de software real.
+### 🎯 Mi Enfoque Profesional
 
-Actualmente, me estoy especializando en el ecosistema **JavaScript** y explorando activamente cómo integrar herramientas de **Inteligencia Artificial y Machine Learning** para potenciar el desarrollo web.
+Más allá de escribir código, diseño **ecosistemas digitales robustos**. Mi especialidad radica en transformar problemas complejos de negocio en arquitecturas de software escalables y mantenibles.
 
-- 🔭 **Enfoque actual:** Desarrollar aplicaciones web de alto rendimiento y refinar mis habilidades en arquitectura de software.
-- 🤝 **Colaboración:** Abierto a colaborar en proyectos Frontend desafiantes o iniciativas Open Source.
-- ⚡ **Mentalidad:** "La eficiencia no trata solo de velocidad, sino de crear soluciones sostenibles y bien diseñadas."
+Me enfoco en crear soluciones resilientes utilizando **Clean Architecture** y patrones **Offline-First**, garantizando la continuidad operativa incluso en los entornos más críticos. Combino la agilidad del desarrollo Full Stack con el rigor de la ingeniería para entregar productos de alto rendimiento y excelente experiencia de usuario.
+
+- 🔭 **Actualmente:** Liderando el desarrollo y escalado de **SUDO ERP**.
+- 💡 **Intereses:** Arquitectura de Software, Sincronización Real-time, Optimizaciones de Rendimiento Web, e integración de IA en flujos de trabajo de negocio.
 
 <br>
 
-### 🚀 Proyectos Destacados
+---
 
-| Proyecto | Descripción y Stack |
+### 🚀 Proyecto Insignia: SUDO ERP
+
+> _Una plataforma híbrida de gestión comercial diseñada para la resiliencia y la alta disponibilidad._
+
+SUDO ERP no es solo un sistema de gestión; es una solución de misión crítica diseñada para operar sin interrupciones. Resuelve la problemática de la conectividad inestable en puntos de venta físicos mediante una **arquitectura Offline-First** avanzada.
+
+| Característica Clave | Impacto Técnico |
 | :--- | :--- |
-| **[Nombre de tu Mejor Proyecto 1](Link al repo o demo)** | Una breve descripción de 2 líneas sobre qué problema resuelve este proyecto. *No digas "una app de tareas", di "Sistema de gestión de productividad con sincronización en tiempo real".*<br>🛠 **Stack:** `JavaScript` `React/Node (ejemplo)` `MongoDB` `TailwindCSS` |
-| **[Nombre de tu Proyecto 2](Link al repo o demo)** | Descripción del segundo proyecto enfocada en la funcionalidad principal o el desafío técnico superado.<br>🛠 **Stack:** `Python` `HTML/CSS` `SQL` |
+| **Sincronización Bidireccional** | Algoritmos personalizados para garantizar consistencia de datos entre el cliente local (Electron) y la nube (Node.js/Mongo) en tiempo real. |
+| **Arquitectura Offline-First** | Operatividad local completa sin dependencia de internet, con resolución de conflictos automática al reconectar. |
+| **Stack Moderno & Robusto** | Core construido sobre **Angular 18+** y **Electron** para el escritorio, respaldado por un backend escalable en **Node.js**. |
+
+<div align="left">
+  <br>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</div>
+
+*(Otros proyectos desarrollados incluyen plataformas SaaS para el sector dental y sistemas de control de inventario multi-sucursal).*
+
+<br>
 
 ---
 
-### 🛠 Habilidades Técnicas
+### 🛠️ Arsenal Tecnológico
 
-Una selección de las tecnologías con las que trabajo activamente.
+Mi stack principal se centra en el ecosistema JavaScript/TypeScript moderno para construir soluciones de punta a punta.
 
 <div align="center">
 
-| Stack | Tecnologías |
+| Dominio | Tecnologías Clave |
 | :--- | :--- |
-| **Core & Algoritmos** | ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-%2314354C?style=flat-square&logo=python&logoColor=white) |
-| **Web Full Stack** | ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Infra & Datos** | ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Frontend & Desktop** | ![Angular](https://img.shields.io/badge/-Angular_18+-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend & Datos** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Bases Sólidas** | ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white) (Fundamentos de algoritmos y programación competitiva) |
 
 </div>
 
 <br>
 
-### 🧩 Programación Competitiva & Algoritmos
+---
 
-Mantengo mis habilidades de resolución de problemas afiladas a través de desafíos constantes.
+### 🧠 Programación Competitiva & Fundamentos
+
+Mantengo una base sólida en algoritmos y estructuras de datos a través de la práctica constante.
 
 <p align="left">
-  <a href="https://leetcode.com/gabriel/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-  <a href="https://codeforces.com/profile/gabriel" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/-Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/gabriel" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://leetcode.com/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/></a>
+  <a href="https://codeforces.com/" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/-Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/></a>
 </p>
 
 ---
@@ -60,21 +84,22 @@ Mantengo mis habilidades de resolución de problemas afiladas a través de desaf
 ### 📈 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel&show_icons=true&hide=prs&count_private=true&hide_title=true&theme=radical_2" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel&layout=compact&count_private=true&hide_title=true&theme=radical_2" height="150" alt="languages graph" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel&show_icons=true&hide=prs&count_private=true&hide_title=true&theme=tokyonight&icon_color=0284c7&text_color=94a3b8&bg_color=0f172a" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel&layout=compact&count_private=true&hide_title=true&theme=tokyonight&icon_color=0284c7&text_color=94a3b8&bg_color=0f172a" height="150" alt="languages graph" />
+  </div>
 
 <br>
 
+---
+
 <div align="center">
   <p><b>📫 Conectemos</b></p>
+  <p>Estoy siempre abierto a discutir arquitecturas interesantes o nuevas oportunidades.</p>
+
   <a href="https://www.linkedin.com/in/gabriel-20/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:gabriel.contact@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-   <a href="https://twitter.com/gabriel" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
   </a>
 </div>
